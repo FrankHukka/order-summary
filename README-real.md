@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](coming soon)
-- Live Site URL: [Live Site](coming soon)
+- Live Site URL: [Live Site](https://frankhukka.github.io/order-summary/)
 
 ## My process
 
