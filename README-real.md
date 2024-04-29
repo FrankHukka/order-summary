@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](coming soon)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/order-summary-component-card-using-flexbox-and-tables-tglEBVFBku)
 - Live Site URL: [Live Site](https://frankhukka.github.io/order-summary/)
 
 ## My process
